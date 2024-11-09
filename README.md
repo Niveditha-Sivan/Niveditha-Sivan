@@ -8,7 +8,7 @@ possible learning experience. I'm currently pursuing Electronics and Computer En
 
 <div id="header" align="center">
 
-  <img src="https://media.giphy.com/media/0RbZFzKFP5KbT5P2SH/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/esZ7DxIGxYN913btqx/giphy.gif" width="100"/>
 </div>
 
 
