@@ -2,9 +2,9 @@
 ### Hi there 👋
 
 I'm Niveditha, a creative and inquisitive
-graduate looking to
+engineer looking to
 expand knowledge through every
-possible learning experience. I'm currently pursuing Electronics and Computer Engineering at VIT, Chennai.
+possible learning experience. Open to networking, collaborating, and sharing knowledge with fellow developers.
 
 <div id="header" align="center">
 
