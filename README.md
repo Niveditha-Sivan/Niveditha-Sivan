@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 I'm Niveditha, a creative and inquisitive
-undergraduate student looking to
+graduate looking to
 expand knowledge through every
 possible learning experience. I'm currently pursuing Electronics and Computer Engineering at VIT, Chennai.
 
